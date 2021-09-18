@@ -1,1 +1,1 @@
-# js-learn
+# Js study
